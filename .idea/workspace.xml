@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="399a4875-9aac-4fe3-9100-15c358ec5574" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1PoJ3Wu1QWc71krHLRCNXhAid81" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rohit.mehta\IdeaProjects\FreeCRMTest\src\main\java\com\crm\qa\testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rohit.mehta\IdeaProjects\FreeCRMTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HomePageTest">
+    <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testngFullRegression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testngFullRegression.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactPageTest.validateCreateNewContact" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.ContactPageTest" />
+      <option name="METHOD_NAME" value="validateCreateNewContact" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactPageTest.verifyContactsPageLabel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.ContactPageTest" />
+      <option name="METHOD_NAME" value="verifyContactsPageLabel" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.HomePageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testngFullRegression.xml" />
+      <item itemvalue="TestNG.C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.ContactPageTest.validateCreateNewContact" />
+      <item itemvalue="TestNG.ContactPageTest.verifyContactsPageLabel" />
+      <item itemvalue="TestNG.HomePageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testngFullRegression.xml" />
+        <item itemvalue="TestNG.ContactPageTest.validateCreateNewContact" />
+        <item itemvalue="TestNG.C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.ContactPageTest.verifyContactsPageLabel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="399a4875-9aac-4fe3-9100-15c358ec5574" name="Default Changelist" comment="" />
+      <created>1562215666949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562215666949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ContactPageTest_verifyContactsPageLabel - 2019.07.05 at 13h 10m 11s.xml">
+      <configuration name="ContactPageTest.verifyContactsPageLabel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_rohit_mehta_IdeaProjects_FreeCRMTest_src_main_resources_testng_xml - 2019.07.05 at 14h 42m 36s.xml">
+      <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_rohit_mehta_IdeaProjects_FreeCRMTest_src_main_resources_testng_xml - 2019.07.05 at 14h 55m 08s.xml">
+      <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_rohit_mehta_IdeaProjects_FreeCRMTest_src_main_resources_testngFullRegression_xml - 2019.07.05 at 15h 46m 02s.xml">
+      <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testngFullRegression.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactPageTest_validateCreateNewContact - 2019.07.08 at 11h 59m 35s.xml">
+      <configuration name="ContactPageTest.validateCreateNewContact" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactPageTest_validateCreateNewContact - 2019.07.08 at 12h 12m 32s.xml">
+      <configuration name="ContactPageTest.validateCreateNewContact" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_rohit_mehta_IdeaProjects_FreeCRMTest_src_main_resources_testngFullRegression_xml - 2019.07.08 at 16h 03m 16s.xml">
+      <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testngFullRegression.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_rohit_mehta_IdeaProjects_FreeCRMTest_src_main_resources_testngFullRegression_xml - 2019.08.21 at 10h 31m 07s.xml">
+      <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testngFullRegression.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_rohit_mehta_IdeaProjects_FreeCRMTest_src_main_resources_testngFullRegression_xml - 2019.08.21 at 10h 31m 45s.xml">
+      <configuration name="C:/Users/rohit.mehta/IdeaProjects/FreeCRMTest/src/main/resources/testngFullRegression.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2019.08.21 at 10h 35m 04s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FreeCRMTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
